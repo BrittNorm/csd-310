@@ -1,8 +1,9 @@
 """ 
     Title: pysports_queries.py
-    Author: Brittany Normandin
-    Date: 11/28/2021
+    Author: Professor Krasso
+    Date: 15 July 2020
     Description: Test program for executing queries against the pysports database. 
+    Used by: Brittany Normandin for class assignment
 """
 
 """ import statements """
