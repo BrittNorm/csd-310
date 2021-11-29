@@ -3,6 +3,7 @@
     Author: Professor Krasso
     Date: 15 July 2020
     Description: pysports database initialization script.
+    Used by: Brittany Normandin for assignment
 */
 
 -- drop test user if exists 
