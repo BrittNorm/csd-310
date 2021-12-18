@@ -68,9 +68,9 @@ INSERT INTO book(book_name, author, details)
 INSERT INTO book(book_name, author, details)
 	VALUES('I Whish I had a Wookie', 'Ian Doescher, Tim Budgen', 'Collection of over 75 Star Wars poems.');
 INSERT INTO book(book_name, author, details)
-	VALUES('Bookish and the Beast', 'Fresh, geeky retelling of Beauty and the Beast.');
+	VALUES('Bookish and the Beast', 'Ashley Poston', 'Fresh, geeky retelling of Beauty and the Beast.');
 INSERT INTO book(book_name, author, details)
-	VALUES('Stuff Every Coffee Lover Should Know', 'Candance Rose Rardon', Pocket-sized handbook is the perfect gift for coffee connoisseurs.');
+	VALUES('Stuff Every Coffee Lover Should Know', 'Candance Rose Rardon', 'Pocket-sized handbook is the perfect gift for coffee connoisseurs.');
 INSERT INTO book(book_name, author, details)
 	VALUES('Crystal Clear', 'Jaya Saxena', 'Explores the multi-faceted meanings and history behind eleven popular crystals.');
 INSERT INTO book(book_name, author, details)
